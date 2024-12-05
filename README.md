@@ -1,5 +1,5 @@
 # Hi, I'm Echo.
-Currently a freshman in high school, just trying to figure things out  
+Currently a freshman in high school, just trying to figure life out  
 
 ## My interests
 - Python
